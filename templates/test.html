@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <ul>
+      {% for l in land %}
+      <li>{{l.hovedstad}} er hovedstad i {{l.navn}}</li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>

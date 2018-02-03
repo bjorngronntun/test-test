@@ -1,0 +1,12 @@
+{
+  "land": [
+    {
+      "navn": "Norge",
+      "hovedstad": "Oslo"
+    },
+    {
+      "navn": "Sverige",
+      "hovedstad": "Stockholm"
+    }
+  ]
+}
